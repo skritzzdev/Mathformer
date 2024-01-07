@@ -1,0 +1,116 @@
+{
+  "map_name": "Map_5",
+  "floorX": 96,
+  "floorY": 64,
+  "background": "Yellow",
+  "blocks": [
+    {
+      "x": 7,
+      "y": 4,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 16,
+      "y": 4,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "width": 96,
+      "height": 96,
+      "left": 192,
+      "top": 64
+    }
+  ],
+  "fires": [
+    {
+      "width": 16,
+      "height": 32,
+      "x": 5.5,
+      "y": 3
+    },
+    {
+      "width": 16,
+      "height": 32,
+      "x": 7.5,
+      "y": 2
+    },
+    {
+      "width": 16,
+      "height": 32,
+      "x": 4.5,
+      "y": 4
+    }
+  ],
+  "ecp": [
+    {
+      "width": 64,
+      "height": 64,
+      "x": 15.5,
+      "y": 4.5
+    }
+  ]
+}
